@@ -1,2 +1,2 @@
 # StaticWebsite-DogGPT
-Not a cat, it's a dog now. Woof!
+What if ChatGPT were a dog?
